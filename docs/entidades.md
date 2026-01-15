@@ -1,0 +1,4 @@
+-Loja
+-Categoria
+-Produto
+-Usuario
