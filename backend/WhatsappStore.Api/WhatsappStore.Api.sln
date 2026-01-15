@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsappStore.Api", "WhatsappStore.Api.csproj", "{3ECF99CC-6D5C-4457-A9E9-9B47D1F033E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsappStore.Application", "..\WhatsappStore.Application\WhatsappStore.Application.csproj", "{776828CD-E4E6-7AE5-14DE-B0304ADE056E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsappStore.Domain", "..\WhatsappStore.Domain\WhatsappStore.Domain.csproj", "{444854FE-B8FD-003E-E2A6-428A0D974C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsappStore.Infra", "..\WhatsappStore.Infra\WhatsappStore.Infra.csproj", "{FC6F1B52-AF1C-4A62-E06B-DC3EA0FE1E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECF99CC-6D5C-4457-A9E9-9B47D1F033E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECF99CC-6D5C-4457-A9E9-9B47D1F033E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECF99CC-6D5C-4457-A9E9-9B47D1F033E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECF99CC-6D5C-4457-A9E9-9B47D1F033E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776828CD-E4E6-7AE5-14DE-B0304ADE056E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776828CD-E4E6-7AE5-14DE-B0304ADE056E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776828CD-E4E6-7AE5-14DE-B0304ADE056E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776828CD-E4E6-7AE5-14DE-B0304ADE056E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444854FE-B8FD-003E-E2A6-428A0D974C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444854FE-B8FD-003E-E2A6-428A0D974C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444854FE-B8FD-003E-E2A6-428A0D974C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444854FE-B8FD-003E-E2A6-428A0D974C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6F1B52-AF1C-4A62-E06B-DC3EA0FE1E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6F1B52-AF1C-4A62-E06B-DC3EA0FE1E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6F1B52-AF1C-4A62-E06B-DC3EA0FE1E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6F1B52-AF1C-4A62-E06B-DC3EA0FE1E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F230EA-70D4-4210-8872-858A48E4C5FE}
+	EndGlobalSection
+EndGlobal
